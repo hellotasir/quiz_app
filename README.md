@@ -38,7 +38,7 @@ This project serves as a hands-on learning tool to:
 
 ## 🤖 Ai Assistants
 
-- Claudi
+- Claude
 - ChatGPT
 
 ---
